@@ -1,0 +1,2 @@
+# hardware-portfolio
+本仓库收录了我在大学时参与的一部分可公开的PCB绘制文件
